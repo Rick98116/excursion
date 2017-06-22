@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+.header {
+  font-family: Verdana;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+}
+
+.coming_soon {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
